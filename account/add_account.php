@@ -23,7 +23,7 @@ require("../library/duration.php");
         return false;
         }
         if(document.form.dp.value==""){
-        alert("Please enter the display name!");
+        alert("Please enter the name!");
         return false;
         }
 	if(document.form.rl.value.match("'")){
